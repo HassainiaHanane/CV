@@ -72,3 +72,7 @@ h2
 h4 {
     color : rgb(124, 150, 71);
 }
+
+li {
+list-style-type: circle;
+ }
